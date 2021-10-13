@@ -1,2 +1,3 @@
 # GitPractice
-Leaning about git brancjh
+Leaning about git branch
+Raising PR
